@@ -1,0 +1,55 @@
+* {
+    font-family: cursive;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.div1 {
+    margin: auto;
+    margin-top: 10px;
+    background: yellow;
+    width: 100px;
+    height: 100px;
+    outline: solid;
+}
+
+.div2 {
+    margin: auto;
+    margin-top: 10px;
+    background: yellow;
+    width: 100px;
+    height: 100px;
+    outline: dashed red;
+}
+
+.div3 {
+    margin: auto;
+    margin-top: 10px;
+    background: yellow;
+    width: 100px;
+    height: 100px;
+    outline: 1rem solid;
+}
+
+.div4 {
+    margin: auto;
+    margin-top: 10px;
+    background: yellow;
+    width: 100px;
+    height: 100px;
+    outline: thick double #32a1ce;
+}
+
+.div5 {
+    margin: auto;
+    margin-top: 10px;
+    background: yellow;
+    width: 100px;
+    height: 100px;
+    outline: 8px ridge rgba(170, 50, 220, .6);
+    border-radius: 2rem;
+    -webkit-border-radius: 2re;
+    -moz-border-radius: 2re;
+    -ms-border-radius: 2re;
+    -o-border-radius: 2re;
+}

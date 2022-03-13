@@ -1,0 +1,68 @@
+* {
+    font-family: cursive;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    margin-top: 10px;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+p {
+    color: slateblue;
+}
+
+/* Active */
+.ps-active {
+    color: black;
+}
+
+.ps-active:active {
+    color: red;
+}
+
+/* Checked */
+.checked:checked + label {
+    color: red;
+}
+
+/* Default */
+.default:default + label {
+    color: red;
+}
+
+/* Disabled */
+.disabled:disabled {
+    background-color: red;
+}
+
+/* Enabled */
+.link:link {
+    color: red;
+}
+
+/* Linkl */
+.enabled:enabled {
+    background-color: green;
+}
+
+.hover {
+    height: 200px;
+    width: 200px;
+    background: slateblue;
+    transition: background 1s;
+    -webkit-transition: background 1s;
+    -moz-transition: background 1s;
+    -ms-transition: background 1s;
+    -o-transition: background 1s;
+}
+
+.hover:hover {
+    background: red;
+}

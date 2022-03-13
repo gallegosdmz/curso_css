@@ -1,0 +1,4 @@
+ Display:
+
+    - block - Se ponen encima una de la otra.
+    - inline-block - Se ponen a un lado de la otra.

@@ -1,0 +1,61 @@
+* {
+    font-family: cursive;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 150%;
+}
+
+p {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Contendor y Flex Item Generales */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #2223;
+    height: 600px;
+}
+
+.flex-item {
+    background-color: rgba(70, 162, 238, 0.2);
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* Auto */
+.auto {
+    align-self: auto;
+}
+
+/* Start */
+.start {
+    align-self: flex-start;
+}
+
+/* End */
+.end {
+    align-self: flex-end;
+}
+
+/* Center */
+.center {
+    align-self: center;
+}
+
+/* Baseline */
+.baseline {
+    align-self: baseline;
+}
+
+/* Stretch */
+.stretch {
+    align-self: stretch;
+}

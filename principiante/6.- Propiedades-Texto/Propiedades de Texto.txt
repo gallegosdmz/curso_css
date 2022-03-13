@@ -1,0 +1,6 @@
+Propiedades:
+
+    - font-size - Cambiar tamaño de letra.
+    - font-family - Cambiar la tipografía.
+    - line-height - La altura que ocupa el tamaño de la letra.
+    - font-weight - Es el grosor del texto.

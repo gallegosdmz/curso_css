@@ -1,0 +1,1 @@
+box-shadow: (posicion del X) (posicion Y) (desenfoque) (border) (color)

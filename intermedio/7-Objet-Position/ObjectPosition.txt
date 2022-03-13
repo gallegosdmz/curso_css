@@ -1,0 +1,8 @@
+Object Position:
+
+    - Sirve para posicionar la imagen en el contenedor.
+
+    - top
+    - bottom
+    - left
+    - right

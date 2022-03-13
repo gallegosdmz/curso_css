@@ -1,0 +1,11 @@
+Unidades:
+
+    - Relativas - Son las que dependen de algo.
+    - Fijas - Son las que no dependen de algo.
+
+    - em - Un em vale a lo que le pongamos en el contenedor por ejemplo, si tenemos un contenedor
+    con un h2 dentro, y le ponemos que el font-size del contendor vale 20px, entonces en el h2
+    1 em valdrá 20px.
+
+    - vw - Ocupa el porcentaje de LARGO de la pantalla , por ejemplo, si le ponemos 50vw va a ocupar el 50% de la pantalla.
+    - vh - Ocupa el porcentaje de ALTURA de la pantalla , por ejemplo, si le ponemos 50vw va a ocupar el 50% de la pantalla.

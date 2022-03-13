@@ -1,0 +1,6 @@
+El box model es una jerarquia en la cual se divide un contenedor
+
+1.- Texto
+2.- Padding
+3.- Border 
+4.- Margin

@@ -1,0 +1,16 @@
+Normalize:
+
+    Nos ayuda a arreglar los problemas de los estilos que trae por defecto el navegador, se debe instalar.
+
+    Ajustes que le debemos hacer a la libreria:
+
+    img {
+        border-style: none;
+        max-width: 100%;
+    }
+
+    * {
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+    }

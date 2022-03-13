@@ -1,0 +1,23 @@
+* {
+    font-family: cursive;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+
+.flex-item {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid yellow;
+}

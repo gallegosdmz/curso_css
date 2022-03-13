@@ -1,0 +1,39 @@
+Pseudoclases:
+    - active - Representa un elemento (como un boton) que el usuario está activando.
+    - checked - Representa cualquier radio u option que está marcado o conmutado a un estado ON.
+    - default - Representa cualquier elemento de formulario que sea predeterminado entre un grupo de elementos relacionados.
+    - disabled - Representa a cualquier elemento deshabilitado.
+    - enabled - Representa cualquier elemento habilitado.
+    - first - Utilizada con la regla-at @page, representa la primera página de un documento impreso.
+    - first-child - Representa el primer elemento entre un grupo de elementos hermanos.
+    - first-of-type - Representa el primer elemento de su tipo entre un grupo de elementos hermanos.
+    - focus - Representa un elemento (como una entrada de formulario) que ha recibido el foco. Generalmente se activa cuando el usuario hace clic.
+              toca un elemento o lo se lecciona con la letra "Tab" del teclado.
+    - hover - Es cuando pasas le mouse por encima de un elemento.
+    - indeterminate - Representa cualquier elemento de formulario cuyo estado sea indeterminado.
+    - in-range - Representa un elemento <input> cuyo valor actual se encuentra dentro de los límites de rango especificados por los atributos min y max.
+    - invalid - Representa cualquier elemento <input> u otro elemento <form> cuyos contenidos no se puedan validar.
+    - lang - Es utilizada para modificar elementos en función del idioma en el que se determina que están.
+    - last-child - Representa el último elemento entre un grupo de elementos hermanos.
+    - last-of-type - Representa el últmo elemento de su TIPO entre un grupo de elementos hermanos.
+    - left - Utilizada con la regla @page at, representa todas las páginas de la izquierda de un documento impreso.
+    - link - Representa un elemento que aún no se ha visto. Coincide con cada elemento no visitado <a>, <area> o <link> que tiene un atributo href.
+    - not() - Representa elementos que no coinciden con una lista de sectores. Como evita que se seleccionen elementos específicos, se lo conoce como la pseudoclase de negación.
+    - only-child - Representa un elemento sin hermanos.
+    - only-of-type - Representa un elemento que no tiene hermanos del mismo tipo.
+    - optional - Representa cualquier elemento <input>, <select> o <textarea> que no tenga el atributo required estrablecido en él.
+    - out-of-range - Representa un elemento <input> cuyo valor actual está fuera de los límites de rango especificados por los atributos min y max.
+    - read-only - Representa un elemento que ya no es editable por el usuario (como un input).
+    - read-write - Representa un elemento (como un input) que es editable por el usuario.
+    - required - Representa cualquier elemento <input>, <select> o <textarea> que tenga el atributo required establecido en él.
+    - right - Utilizada con la regla-at @page, representa todas las páginas de la derecha de un documento impreso.
+    - root - Selecciona el elemento de raíz de un arbol que representa el documento.
+    - scope - Representa elementos que son un punto de referencia para que coincidan los selectores.
+    - target - Representa un elemento único (el elemento objetivo) con un id que coincide con el fragmento de la URL.
+    - valid - Representa cualquier <input> u otro elemento <form> cuyo contenido se valide stisfactoriamente. Esto permite que los campos válidos adopten fácilmente
+              una apariencia que ayuda al usuario a confirmar que sus datos están formateados correctamente.
+
+Transition:
+
+    - transition - Nos permite cambiar el tiempo de las transiciones.
+    - transition: (background o propiedad) (tiempo en el que quieres que cambie).

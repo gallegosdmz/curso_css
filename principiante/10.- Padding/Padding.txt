@@ -1,0 +1,5 @@
+Padding:
+
+    - Concepto - Es la distancia que hay entre el texto y la caja.
+
+    - Orden en que se le dan el padding en una misma linea de codigo: TOP, RIGHT, BOTTOM, LEFT.

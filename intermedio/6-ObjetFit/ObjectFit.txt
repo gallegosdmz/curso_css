@@ -1,0 +1,12 @@
+Object Fit:
+
+    - Indica cómo el contenido de un elemento reemplazado, 
+      por ejemplo un <img> o <video>, debería redimensionarse para ajustarse a su contenedor.
+
+    - contain - mantiene su relación de aspecto mientras se ajusta dentro del contenedor.
+    - cover - ajusta la imagen al tamaño del contenedor.
+    - fill - modifica el tamaño del elemento remplazado para llenar el contenedor.
+    - none - el contenido reemplazado no se redimensiona.
+    - scale-down - el contenido se dimensiona como si none o contain estuvieran especificados, lo que resultaría en un tamaño de objeto
+                   concreto más pequeño.
+    

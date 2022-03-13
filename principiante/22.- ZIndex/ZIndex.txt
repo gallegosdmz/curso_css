@@ -1,0 +1,6 @@
+Z-Index
+
+    - Indica el orden de un elemento posicionado y sus descendientes. Cuando varios elementos se superponen,
+      los elementos con mayor valor z-index cubren aquellos con menor valor.
+    
+    

@@ -1,0 +1,26 @@
+Outline
+
+    - outline: (width) (style) (color)
+
+    - Los contornos no ocupan espacio, son dibujados por encima del elemento.
+    - Los contornos pueden no ser rectangulares.
+
+    - outline-width - es usada para establecer el grososr del contorno de un elemento. Un contorno es la linea dibujada
+                      al rededor de los elementos, fuera de los límites del borde, para resaltar el elemento.
+
+                            - thin - Generalmente 1px
+                            - medium - Generalmente 3px
+                            - thixk - Generalmente 5px
+    
+    - outline-style - es usada para establecer el estilo del contorno de un elemento.
+
+                        - none
+                        - auto
+                        - dotted
+                        - dashed
+                        - solid
+                        - double
+                        - groove
+                        - ridge
+                        - inset
+                        - outset

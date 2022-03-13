@@ -1,0 +1,4 @@
+Concepto:
+
+    - Especifica si los elementos "hijos" son obligados a permanecer en una misma línea o pueden fluir en varias líneas. Si la cobertura (wrap) está permitida,
+      esta propiedad también te permite controlar la dirección en la cual serán apilados los elementos.

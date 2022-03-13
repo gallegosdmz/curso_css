@@ -1,0 +1,20 @@
+* {
+    font-family: cursive;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+}
+
+.flex-item {
+    background-color: blue;
+    color: #fff;
+    padding: 10px;
+    margin: 10px;
+}

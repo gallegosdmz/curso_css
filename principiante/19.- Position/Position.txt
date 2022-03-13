@@ -1,0 +1,8 @@
+Position:
+
+    - Especifica cómo un elemento es posicionado en el documentol. Las propiedades top, right, bottom y left determinan la ubicación final de los elementos.
+
+    - Fixed - Permite que el objeto se mantenga fijo en la pantalla.
+    - Relative - Permite posicionar los elementos de una forma determinada.
+    - Absolute - Permite posicionar los elementos de una forma absoluta. Los elementos absolut se posiciona en base a otro elemento que lo toma de referencia. (El elemento de referencia tiene que ser un position relative)
+    

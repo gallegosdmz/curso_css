@@ -1,0 +1,43 @@
+Propiedades:
+
+    - grid-template-rows (Grid Container)
+    - grid-column-gap (Grid Container)
+
+    - grid-row-gap (Grid Container)
+    - grid-column-gap (Grid Container)
+    - grid-gap: row column (Grid Container)
+
+    - grid-template-columns - Define el número de columnas en tu grid layout, y puede definir el ancho de cada columnoa.
+                             
+                              El valor es una lista de valores separados donde cada valor define el ancho de cada columna.
+
+                              Si quieres un grid layout con cuatro columas puedes especificar el width para cada columna o poner "auto" si queremos que todas tengan el mismo width.
+
+Grid Container:
+
+    - Para que un elemento sea Grid Container tenemos que ponerle la propiedad display a grid o inline-grid.
+      
+      Un grid container consiste en una cuadrícula de elementos dentro de colomnas y filas.
+
+
+Grid Item:
+
+    - Un grid container contiene grid items. Por defecto un container tiene un grid item por cada columna, pero esto se puede cambiar
+
+
+    - grid-column - Define en qué columna colocar un item. Se puede definir la columna donde empieza y en la que acaba.
+                    
+                    Esta es una propiedad abreviada de las propiedades grid-column-start y grid-column-end.
+
+    - grid-row - Define en qué fila colocar un item. Se puede definir la fila donde mpieza y en la que acaba.
+
+                 Esta es una propiedad abreviada de las propiedades grid-row-start y grid-row-end.
+
+    - grid-area - Se puede usar como una forma más corta que las propiedades:
+
+                  - grid-row-start
+                  - grid-column-start
+                  - grid-row-end
+                  - grid-column-end
+
+                  grid-area: 1 / 2 / 5 / 6;

@@ -1,0 +1,5 @@
+Overflow:
+
+    - auto - Detecta si el contenido sobrepasa la caja y te pone una barra para hacer scroll.
+    - scroll - Nos pone un scroll aunque no lo necesite.
+    - hidden - Oculta el scroll.

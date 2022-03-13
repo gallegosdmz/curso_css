@@ -1,0 +1,5 @@
+Bordes:
+
+    - border-radius - Nos ayuda a redondear los bordes de una caja.
+
+    - border: (tamaño de nuestro borde) (estilo de nuestro borde) (color de nuestro borde).

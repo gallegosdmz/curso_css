@@ -1,0 +1,8 @@
+Pseudoelementos:
+
+    - ::first-line | BLOCK - Se refiere a la primera linea.
+    - ::first-letter | BLOCK - Se ref iere a la primera letra.
+    - ::placeholder - Se refiere al placeholder de un input de tipo text.
+    - ::selection - Se refiere a lo que se selecciona dentro de un inputo de tipo text.
+    - ::after | HIJOS - CONTENT (NECESARIO) - INLINE - Se refiere al contenido que está antes de la etiqueta por.
+    - ::before | HIJOS - CONTENT (NECESARIO) - INLINE - Se refiere al contenido que está despues de la etiqueta.

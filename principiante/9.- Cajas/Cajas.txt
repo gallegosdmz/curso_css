@@ -1,0 +1,4 @@
+Cajas:
+
+    - En linea - Su tamaño es en base al contenido.
+    - En bloque - Son las mas importantes, siempre se van a ajustar al ancho de su contenedor.

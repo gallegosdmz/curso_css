@@ -1,0 +1,11 @@
+Especificidad:
+
+    Concepto - Es la manera mediante la cual los navegadores deciden qué valores de una propiedad CSS son más relevantes para un elemento y, por lo tanto, serán aplicados.
+    
+    Orden de Importancia de mayor a menor:
+
+        - !important.
+        - estilos en linea.
+        - identificadores.
+        - clases, pseudoclases y atributos.
+        - elementos, pseudoelementos.

@@ -1,0 +1,9 @@
+Selectores:
+
+    - Universal - '*' Este selector selecciona a todos los elementos.
+    - De tipo - 'h1, h2, p, etc' Son los que seleccionamos por elemento.
+    - Clases - '.clase' Selecciona un elemento por el nombre de su CLASE. (SE DEBE UTILIZAR UN SOLO ID PARA ELEMENTOS, NO SE PUEDEN REPETIR)
+    - Id - '#clase' Selecciona un elemento por el nombre de su ID.
+    - Por atributo - '[atributo='']' - Selecciona un elemento por medio del atributo declarado en el HTML.
+    - Descendiente - 'h2 p ' - Selecciona un elemento que está dentro de otro.
+    - Pseudoclases - 'b:hover' - Es en evento que se realiza en la selección.

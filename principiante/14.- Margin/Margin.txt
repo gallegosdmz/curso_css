@@ -1,0 +1,3 @@
+Margin:
+
+    - Concepto - Es la distancia que hay entre cajas.

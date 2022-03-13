@@ -1,0 +1,3 @@
+Concepto:
+
+    - Especifica cómo colocar los objetos flexivles en el contenedor flexible definiendo el eje principal y la dirección.

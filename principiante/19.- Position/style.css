@@ -1,0 +1,31 @@
+* {
+    font-family: cursive;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.fixed {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+}
+
+.relative {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 200px;
+}
+
+.absolute {
+    background-color: blue;
+    border-radius: 50%;
+    position: absolute;
+    top: 5;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
