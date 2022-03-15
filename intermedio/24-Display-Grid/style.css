@@ -1,0 +1,38 @@
+.grid-container {
+    display: grid;
+    height: 200px;
+    grid-gap: 5px;
+    grid-template-areas: 
+    'header header header header header'
+    'menu main main aside aside'
+    'menu footer footer footer footer';
+    background-color: beige;
+}
+
+.grid-container > * {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.grid-header {
+    grid-area: header;
+}
+
+.grid-menu {
+    grid-area: menu;
+}
+
+.grid-main {
+    grid-area: main;
+
+}
+
+.grid-aside {
+    grid-area: aside;
+}
+
+.grid-footer {
+    grid-area: footer;
+}
